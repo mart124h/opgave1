@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\bin\Debug\netcoreapp3.1\UnitTestCykel.deps.json
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\bin\Debug\netcoreapp3.1\UnitTestCykel.dll
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\bin\Debug\netcoreapp3.1\UnitTestCykel.pdb
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\obj\Debug\netcoreapp3.1\UnitTestCykel.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\obj\Debug\netcoreapp3.1\UnitTestCykel.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\obj\Debug\netcoreapp3.1\UnitTestCykel.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\obj\Debug\netcoreapp3.1\UnitTestCykel.AssemblyInfo.cs
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\obj\Debug\netcoreapp3.1\UnitTestCykel.dll
+C:\Users\Martin\Desktop\3 Semester - Obli. Opgave 1\Opgave 1 - UnitTest\UnitTestCykel\obj\Debug\netcoreapp3.1\UnitTestCykel.pdb
